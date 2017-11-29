@@ -72,5 +72,8 @@
 *    [UIImageView-BetterFace-Swift](https://github.com/croath/UIImageView-BetterFace-Swift) 展示图片是加入面部识别，改善展示效果
 *    [Cartography](https://github.com/robb/Cartography) is an excellent example of what could be achieved with operator overloading. If you don’t like writing Autolayout constraints you should definitely check it out.
 *    [swifter](https://github.com/glock45/swifter) Tiny http server engine written in Swift programming language.
-*    [SwiftyJSON](https://github.com/lingoer/SwiftyJSON)
 ---
+
+# Framework
+*    [SwiftyJSON](https://github.com/lingoer/SwiftyJSON)
+

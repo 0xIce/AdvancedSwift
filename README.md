@@ -13,7 +13,6 @@
 1. [Interview](#interview)
    * [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)
 1. [ML](#machine-learning)
-   * [MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
 ---
 
 # Swift

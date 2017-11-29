@@ -13,8 +13,7 @@
 1. [Interview](#interview)
    * [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)
 1. [ML](#machine-learning)
-   * [MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)   The MobileNet neural network using Apple's new CoreML framework
-
+   * [MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
 ---
 
 # Swift
@@ -137,3 +136,6 @@ Attributed text for `SKLabelNode` and `SKTransformNode`.
 ---
 
 # Interview
+---
+
+# Machine Learning

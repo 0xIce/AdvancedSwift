@@ -8,7 +8,7 @@
    * [awesome-ios](https://github.com/vsouza/awesome-ios)
 1. [Framework](#framework)
 1. [Algorithm](#algorithm)
-   * [awesome-ios](https://github.com/vsouza/awesome-ios)
+   * [awesome-ios](https://github.com/liuyubobobo/Play-with-Algorithm-Interview)
 
 ---
 

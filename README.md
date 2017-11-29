@@ -102,7 +102,6 @@ Image classification demo using Core ML framework. Show description of an object
 
 Thanks [@hollance](https://github.com/hollance) for his useful [CoreMLHelpers](https://github.com/hollance/CoreMLHelpers).
 
-<img src="resources/coreml-example.jpeg" width="200">
 
 ### [Vision](https://developer.apple.com/documentation/vision)
 

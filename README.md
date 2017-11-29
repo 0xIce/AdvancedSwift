@@ -1,7 +1,6 @@
 # 目录
-[Swift](#swift)
-
-[Demo](#demo)
+- [Swift](#swift)
+- [Demo](#demo)
 
 ---
 

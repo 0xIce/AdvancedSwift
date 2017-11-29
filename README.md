@@ -70,7 +70,7 @@
 ---
 
 # Demo
-*    [FlappySwift](https://github.com/fullstackio/FlappySwift)  用Swift实现的FlappyBird
+*    [FlappySwift](https://github.com/fullstackio/FlappySwift)  用Swift实现的FlappyBird
 *    [swift-2048](https://github.com/austinzheng/swift-2048)
 *    [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) 可以创建图表的库
 *    [Game of Life](https://github.com/yonbergman/swift-gameoflife) 一个游戏

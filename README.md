@@ -1,7 +1,7 @@
 # 目录
 - [Swift](#swift)
   1. [权威](#权威)
-  2. [讨论](#讨论)
+  1. [讨论](#讨论)
 - [Demo](#demo)
 - [Framework](#framework)
 - [Algorithm](#algorithm)

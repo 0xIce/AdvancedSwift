@@ -5,6 +5,7 @@
    * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
 1. [Demo](#demo)
    * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+   * [wesome-ios](https://github.com/vsouza/awesome-ios)
 1. [Framework](#framework)
 1. [Algorithm](#algorithm)
 

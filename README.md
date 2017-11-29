@@ -108,27 +108,20 @@ Thanks [@hollance](https://github.com/hollance) for his useful [CoreMLHelpers](h
 
  - Face detection. Detects all faces on selected photo.
 
-<img src="resources/vision-face-detection-example.jpeg" width="200">
-
 - Face landmarks. An image analysis that finds facial features (such as the eyes and mouth) in an image.
-
-<img src="resources/vision-landmarks-example.jpeg" width="200">
 
 - Object tracking. Track any object using camera.
 
-<img src="resources/vision-object-tracking-example.jpeg" width="200">
 
 ### [ARKit](https://developer.apple.com/documentation/arkit)
 
 Augmented reality experiences in your app or game.
 
-<img src="resources/arkit-example.jpeg" width="200">
 
 ### [Drag and Drop](https://developer.apple.com/documentation/uikit/drag_and_drop)
 
 Easy way to move content.
 
-<img src="resources/drag-and-drop-example.gif" width="200">
 
 ### [Core NFC](https://developer.apple.com/documentation/corenfc)
 
@@ -136,19 +129,16 @@ Reading of NFC tag payloads. Don't forget to enable NFC Tag Reading for App ID i
 
 **Note**: select CoreNFC-Example scheme and run.
 
-<img src="resources/corenfc-example.jpeg" width="200"> <img src="resources/corenfc-example-2.jpeg" width="200">
 
 ### [MapKit](https://developer.apple.com/documentation/mapkit)
 
 New map type, new anotation views and clustering!
 
-<img src="resources/mapkit-example.gif" width="200">
 
 ### [IdentityLookup](https://developer.apple.com/documentation/identitylookup)
 
 SMS and MMS filtering using IdentityLookup framework. Don't forget to turn on an extension in Messages > Unknown & Spam > SMS filtering.
 
-<img src="resources/identity-lookup-example.jpeg" width="200">
 
 ### [DeviceCheck](https://developer.apple.com/documentation/devicecheck)
 
@@ -160,7 +150,6 @@ Identifying devices that have already taken advantage of a promotional offer tha
 
 Attributed text for `SKLabelNode` and `SKTransformNode`.
 
-<img src="resources/sprite-kit-example.gif" width="200">
 
 ### Blogs/Newsletter
 List of online sources which have mentioned iOS 11 by Examples: 

@@ -16,7 +16,6 @@
 
 ## Swift讨论
 ### 初级
-
 *    [StackOverflow上的Swift讨论](http://stackoverflow.com/questions/tagged/swift-language)
 *    github上的swift内容 [search结果](https://github.com/search?l=Swift&q=swift&ref=cmdform&type=Repositories)
 *    [Swift Cheatsheet](http://cdn2.raywenderlich.com/wp-content/uploads/2014/06/RW-Swift-Cheatsheet-0_3.pdf)
@@ -40,7 +39,6 @@
 *    [把《The Swift Programming Language》读薄](http://hawstein.com/posts/make-thiner-tspl.html) by [Hawstein](http://hawstein.com)
 
 ### 深入
-
 *    [Swift Operators](http://nshipster.com/swift-operators/) by Mattt Thompson
 *    [Beginning Core Image in Swift](http://www.raywenderlich.com/76285/beginning-core-image-swift)
 *    [Multiple Animations](http://ronnqvi.st/multiple-animations/) by David Rönnqvist

@@ -1,9 +1,9 @@
 # 目录
 1. [Swift](#swift)
-  1. adfd
-2. [Demo](#demo)
-3. [Framework](#framework)
-4. [Algorithm](#algorithm)
+  2. adfd
+1. [Demo](#demo)
+1. [Framework](#framework)
+1. [Algorithm](#algorithm)
 
 ---
 

@@ -114,7 +114,6 @@ Attributed text for `SKLabelNode` and `SKTransformNode`.
   - [Digest MBLTDEV - issue #123](http://digest.mbltdev.ru/digests/146)
   - [Natasha's This Week in Swift - issue #136](https://swiftnews.curated.co/issues/136#libraries)
   - [Indie iOS Focus Weekly - issue #127](https://indieiosfocus.curated.co/issues/127?#resources)
-  - iOS Developers Slack Weekly Digest, June 28, 2017
   - [iOS Cookies Newsletter - issue #83](http://mailchi.mp/e9fd17553d2e/ios-cookies-newsletter-1415405?e=c4238d2155)
   - [iOSGoodies - issue #187](http://ios-goodies.com/post/162409261711/week-187)
   - [iOS Dev Weekly - issue #307](https://iosdevweekly.com/issues/307?#code)

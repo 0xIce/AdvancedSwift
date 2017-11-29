@@ -2,8 +2,6 @@
 - [Swift](#swift)
   * [权威](#权威)
   * [讨论](#讨论)
-  * Item 1
-  * Item 2
 - [Demo](#demo)
 - [Framework](#framework)
 - [Algorithm](#algorithm)

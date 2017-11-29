@@ -82,6 +82,97 @@
 *    [UIImageView-BetterFace-Swift](https://github.com/croath/UIImageView-BetterFace-Swift) 展示图片是加入面部识别，改善展示效果
 *    [Cartography](https://github.com/robb/Cartography) is an excellent example of what could be achieved with operator overloading. If you don’t like writing Autolayout constraints you should definitely check it out.
 *    [swifter](https://github.com/glock45/swifter) Tiny http server engine written in Swift programming language.
+
+## iOS 11
+
+- [Core ML](#core-ml)
+- [Vision](#vision)
+- [ARKit](#arkit)
+- [Drag and Drop](#drag-and-drop)
+- [Core NFC](#core-nfc)
+- [MapKit](#mapkit)
+- [IdentityLookup](#identitylookup)
+- [DeviceCheck](#devicecheck)
+- [SpriteKit](#spritekit)
+- [Blogs/Newsletter](#blogsnewsletter)
+
+### [Core ML](https://developer.apple.com/documentation/coreml)
+
+Image classification demo using Core ML framework. Show description of an object on selected photo.
+
+Thanks [@hollance](https://github.com/hollance) for his useful [CoreMLHelpers](https://github.com/hollance/CoreMLHelpers).
+
+<img src="resources/coreml-example.jpeg" width="200">
+
+### [Vision](https://developer.apple.com/documentation/vision)
+
+ - Face detection. Detects all faces on selected photo.
+
+<img src="resources/vision-face-detection-example.jpeg" width="200">
+
+- Face landmarks. An image analysis that finds facial features (such as the eyes and mouth) in an image.
+
+<img src="resources/vision-landmarks-example.jpeg" width="200">
+
+- Object tracking. Track any object using camera.
+
+<img src="resources/vision-object-tracking-example.jpeg" width="200">
+
+### [ARKit](https://developer.apple.com/documentation/arkit)
+
+Augmented reality experiences in your app or game.
+
+<img src="resources/arkit-example.jpeg" width="200">
+
+### [Drag and Drop](https://developer.apple.com/documentation/uikit/drag_and_drop)
+
+Easy way to move content.
+
+<img src="resources/drag-and-drop-example.gif" width="200">
+
+### [Core NFC](https://developer.apple.com/documentation/corenfc)
+
+Reading of NFC tag payloads. Don't forget to enable NFC Tag Reading for App ID in the Apple Developer site. Since Xcode 9 beta 2 Core NFC can now be enabled via the Capabilities tab in Xcode.
+
+**Note**: select CoreNFC-Example scheme and run.
+
+<img src="resources/corenfc-example.jpeg" width="200"> <img src="resources/corenfc-example-2.jpeg" width="200">
+
+### [MapKit](https://developer.apple.com/documentation/mapkit)
+
+New map type, new anotation views and clustering!
+
+<img src="resources/mapkit-example.gif" width="200">
+
+### [IdentityLookup](https://developer.apple.com/documentation/identitylookup)
+
+SMS and MMS filtering using IdentityLookup framework. Don't forget to turn on an extension in Messages > Unknown & Spam > SMS filtering.
+
+<img src="resources/identity-lookup-example.jpeg" width="200">
+
+### [DeviceCheck](https://developer.apple.com/documentation/devicecheck)
+
+Identifying devices that have already taken advantage of a promotional offer that you provide, or flagging a device that you have determined to be fraudulent.
+
+**Note**: select DeviceChecking scheme and run.
+
+### [SpriteKit](https://developer.apple.com/documentation/spritekit) by [mkowalski87](https://github.com/mkowalski87)
+
+Attributed text for `SKLabelNode` and `SKTransformNode`.
+
+<img src="resources/sprite-kit-example.gif" width="200">
+
+### Blogs/Newsletter
+List of online sources which have mentioned iOS 11 by Examples: 
+
+- [Digest MBLTDEV - issue #123](http://digest.mbltdev.ru/digests/146)
+- [Natasha's This Week in Swift - issue #136](https://swiftnews.curated.co/issues/136#libraries)
+- [Indie iOS Focus Weekly - issue #127](https://indieiosfocus.curated.co/issues/127?#resources)
+- iOS Developers Slack Weekly Digest, June 28, 2017
+- [iOS Cookies Newsletter - issue #83](http://mailchi.mp/e9fd17553d2e/ios-cookies-newsletter-1415405?e=c4238d2155)
+- [iOSGoodies - issue #187](http://ios-goodies.com/post/162409261711/week-187)
+- [iOS Dev Weekly - issue #307](https://iosdevweekly.com/issues/307?#code)
+- [WeeklyCocoa.News - 31st week of 2017](https://weeklycocoa.news/2017/week-31st-of-2017/)
 ---
 
 # Framework

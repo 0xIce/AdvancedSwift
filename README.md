@@ -1,6 +1,5 @@
 # 目录
 1. [Swift](#swift)
-  - [讨论](#swift讨论)
 2. [Demo](#demo)
 3. [Framework](#framework)
 4. [Algorithm](#algorithm)

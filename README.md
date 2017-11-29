@@ -57,7 +57,7 @@
 *    [Swift Language Highlights: An Objective-C Developer’s Perspective](http://www.raywenderlich.com/73997/swift-language-highlights)
 *    [Swift Sequences and lazy evaluation](http://www.scottlogic.com/blog/2014/06/26/swift-sequences.html)
 *    [SPACESHIP OPERATOR IN SWIFT](http://vperi.com/2014/06/05/spaceship-operator-in-swift/) 和 [REGULAR EXPRESSIONS IN SWITCH STATEMENTS](http://vperi.com/2014/06/08/regular-expressions-in-switch-statements/) by Venkat Peri
-
+---
 
 # Demo
 *    [FlappySwift](https://github.com/fullstackio/FlappySwift)  用Swift实现的FlappyBird

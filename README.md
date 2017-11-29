@@ -4,7 +4,7 @@
    * [讨论](#讨论)
    * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
 1. [Demo](#demo)
-   * [open-source-ios-apps](www.)
+   * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 1. [Framework](#framework)
 1. [Algorithm](#algorithm)
 

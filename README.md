@@ -1,7 +1,8 @@
 # 目录
 1. [Swift](#swift)
    * [权威](#权威)
-   * [讨论](#swift讨论)
+   * [讨论](#讨论)
+   * [Asome-Swift](https://github.com/matteocrippa/awesome-swift)
 1. [Demo](#demo)
 1. [Framework](#framework)
 1. [Algorithm](#algorithm)
@@ -24,7 +25,7 @@
 * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 ---
 
-## Swift讨论
+## 讨论
 ### 初级
 *    [StackOverflow上的Swift讨论](http://stackoverflow.com/questions/tagged/swift-language)
 *    github上的swift内容 [search结果](https://github.com/search?l=Swift&q=swift&ref=cmdform&type=Repositories)

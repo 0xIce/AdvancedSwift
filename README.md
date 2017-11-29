@@ -1,25 +1,7 @@
 # StudyClub
 collection of study resources, including but not limited to swift, open source demo, algorithm
 
-## [Swift学习资源](http://blog.liulantao.com/SwiftBeginnersGuide/)
-
-![Swift](http://images.apple.com/v/swift/b/images/overview/icon_swift_hero_large_2x.png)
-
-> Swift，一种强大的开源编程语言，让大家都能开发出众的 App。
-> Swift 是一种强劲而直观的编程语言，它由 Apple 创造，可用来为 iOS、Mac、Apple TV 和 Apple Watch 开发 app。它旨在为开发者提供充分的自由。Swift 易用并且开源，只要有想法，谁都可以创造非凡。
-
-> Swift is a high-performance system programming language. It has a clean and modern syntax, offers seamless access to existing C and Objective-C code and frameworks, and is memory safe by default.
-> On December 3, 2015, the Swift language, supporting libraries, debugger, and package manager were published under the Apache 2.0 license with a Runtime Library Exception, and Swift.org was created to host the project.
-
-苹果公司在WWDC 2014上宣布了他们将会推出一款新的编程语言，面向iOS和OS X系统的开发人员，这个新的语言被命名为Swift。
-
-Swift在iOS 8发布的时候推向市场，用来取代 Objective-C 语言。
-对于这个巨大的决定，苹果公司的解释是Swift速度更快，使用起来更加容易。
-在Swift推出之后，苹果公司应该不会停止对 Objective-C 的支持，开发工具会同时支持两种语言。
-
-在 Swift 开源后，开发者社区活跃。目前 CocoaPods 中有大量的第三方开发库已经支持 Swift。
-
----
+## Swift学习资源
 
 ### 官方资源
 
@@ -32,7 +14,7 @@ Swift在iOS 8发布的时候推向市场，用来取代 Objective-C 语言。
 - [苹果官网的 Swift 页面](http://www.apple.com/swift/)
     - [Xcode](https://itunes.apple.com/app/xcode/id497799835)
 
-### 权威文档
+#### 权威文档
 
 * The Swift Programming Language - The Definitive Book
     - [Online Version](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
@@ -51,11 +33,11 @@ Swift在iOS 8发布的时候推向市场，用来取代 Objective-C 语言。
 
 ---
 
-### 社区文档
+#### 社区文档
 
 - The Swift Programming Language [社区译中文版](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
 
-### 课程
+#### 课程
 
 - [Stanford University: Developing iOS 9 Apps with Swift](https://itunes.com/StanfordSwift)
 - [Plymouth University: iOS Development in Swift](https://itunes.com/PlymouthSwift)
@@ -184,38 +166,3 @@ Apple同时发布了3个示例程序，用于初窥Swift开发的项目。
 *    [JustUiKit](https://github.com/lfkdsk/JustUiKit) - JustUiKit是一套Android样式工具iOS UI套件。 JustUiKit包含JustLinearLayout，JustFrameLayout, JustRelativeLayout等。 它旨在使Android开发人员轻松构建iOS UI。 也为iOS开发人员提供了一种新的方式来构建UI。
 
 ---
-
-## 开发工具
-
-### xcode 6 下载
-
-```xcode 6 安装系统要求为MacOSX 10.9.3+```
-
-*    [http://pan.baidu.com/s/1dD2AJ3j](http://pan.baidu.com/s/1dD2AJ3j)
-*    xcode_6.0.1.dmg [http://pan.baidu.com/s/1sjNQY1B](http://pan.baidu.com/s/1sjNQY1B)
-*    xcode_6.dmg [http://pan.baidu.com/s/1jGoTsWm](http://pan.baidu.com/s/1jGoTsWm)_
-*    xcode_6_beta_6.dmg [http://pan.baidu.com/s/1dD3qeOT](http://pan.baidu.com/s/1dD3qeOT)
-*    xcode_6_beta_4.dmg [http://pan.baidu.com/s/1pJ0nkJx](http://pan.baidu.com/s/1pJ0nkJx)
-*    xcode_6_beta_3.dmg [http://pan.baidu.com/s/1nt0WS8T](http://pan.baidu.com/s/1nt0WS8T)
-
----
-
-## 其它
-
-*    [iOS Developer Library](https://developer.apple.com/library/ios/navigation/)
-*    [Chris Lattner](http://nondot.org/sabre/) Swift设计者
-*    [iOS 7.1 to iOS 8.0 API Differences](https://developer.apple.com/library/prerelease/ios/releasenotes/General/iOS80APIDiffs/index.html)
-*    [App Extensions Increase Your Impact](https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/index.html)
-*    [Swift学习资源](http://blog.liulantao.com/SwiftBeginnersGuide/) Swift 学习资料汇总，比较详细总结了常用的资源。
-
-### 因为重名躺枪的 Swift
-
-*    [Swift Lang](http://swift-lang.org) 一门很专业的并行编程语言，有苹果在Swift页面的链接，肯定带过去很多访问量。
-*    [OpenStack Swift](https://github.com/openstack/swift) OpenStack Object Storage (Swift)。
-*    [Swift 聊天工具](http://swift.im) 基于XMPP的聊天工具及服务端SDK。
-*    [Taylor Swift](http://en.wikipedia.org/wiki/Taylor_Swift) 美国乡村音乐女創作歌手、吉他歌手、演员。这位1989年出生的美女获得过数不清的格莱美奖及其它排行榜大奖。2014/05/30刚举办了泰勒•斯威夫特“红”巡演上海演唱会。WWDC2014之后三天，她从Google搜索结果首页被挤出，很受伤，歌迷们也很受伤。去[脸盆网](https://www.facebook.com/TaylorSwift)关注她，去音悦台[听她的歌](http://www.yinyuetai.com/fanclub/122)。
-
----
-
-### 讨论区
-*    【iOS开发者-开始Swift】QQ交流群32958950 申请时请说明身份。

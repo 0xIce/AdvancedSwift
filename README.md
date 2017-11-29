@@ -2,7 +2,7 @@
 1. [Swift](#swift)
    * [权威](#权威)
    * [讨论](#讨论)
-   * [Asome-Swift](https://github.com/matteocrippa/awesome-swift)
+   * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
 1. [Demo](#demo)
 1. [Framework](#framework)
 1. [Algorithm](#algorithm)

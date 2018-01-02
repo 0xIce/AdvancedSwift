@@ -130,6 +130,7 @@ Attributed text for `SKLabelNode` and `SKTransformNode`.
 
 # Framework
 *    [SwiftyJSON](https://github.com/lingoer/SwiftyJSON)
+*    [lottie-ios](https://github.com/airbnb/lottie-ios)
 ---
 
 # Algorithm

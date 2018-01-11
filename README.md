@@ -58,7 +58,7 @@
 
 ### 深入
 *    [iOSCate](http://ioscake.com/)
-*    [Swift Operators](http://nshipster.com/swift-operators/) by Mattt Thompson
+*    [Swift Operators](http://nshipster.com/swift-operators/) by Mattt Thompson
 *    [Beginning Core Image in Swift](http://www.raywenderlich.com/76285/beginning-core-image-swift)
 *    [Multiple Animations](http://ronnqvi.st/multiple-animations/) by David Rönnqvist
 *    [The Case for Message Passing in Swift](http://www.buckleyisms.com/home/2014/6/16/the-case-for-message-passing-in-swift.html) by Michael Buckley

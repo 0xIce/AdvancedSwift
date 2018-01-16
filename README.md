@@ -20,7 +20,7 @@
 ## 权威
 * The Swift Programming Language - The Definitive Book
     - [Online Version](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
-    - ePub（[官方](https://swift.org/documentation/TheSwiftProgrammingLanguage(Swift4).epub)）
+    - [官方ePub](https://swift.org/documentation/TheSwiftProgrammingLanguage(Swift4).epub)
     - [iBooks Store](https://itunes.apple.com/us/book-series/swift-programming-series/id888896989?mt=11)
 * App Development with Swift
     -  [iBooks Store](https://itunes.apple.com/us/book/app-development-with-swift/id1118575552?mt=11)
@@ -133,6 +133,10 @@ Attributed text for `SKLabelNode` and `SKTransformNode`.
 *    [SwiftyJSON](https://github.com/lingoer/SwiftyJSON)
 *    [lottie-ios](https://github.com/airbnb/lottie-ios)
 *    [Material](https://github.com/CosmicMind/Material)
+*    markdown
+     -  [hoedown](https://github.com/hoedown/hoedown)
+     -  [cmark](https://github.com/commonmark/cmark)
+
 ---
 
 # Algorithm
@@ -142,3 +146,5 @@ Attributed text for `SKLabelNode` and `SKTransformNode`.
 ---
 
 # Machine Learning
+
+

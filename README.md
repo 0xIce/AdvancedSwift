@@ -138,6 +138,7 @@ Attributed text for `SKLabelNode` and `SKTransformNode`.
 *    markdown
      -  [hoedown](https://github.com/hoedown/hoedown)
      -  [cmark](https://github.com/commonmark/cmark)
+*    [自动化测试添加标签id解决方案](https://github.com/yulingtianxia/TBUIAutoTest)
 
 ---
 

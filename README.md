@@ -7,9 +7,6 @@
    * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
    * [awesome-ios](https://github.com/vsouza/awesome-ios)
 1. [Framework](#framework)
-1. [Algorithm](#algorithm)
-   * [liububo-Play-with-Algorithm-Interview](https://github.com/liuyubobobo/Play-with-Algorithm-Interview)
-   * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
 1. [Interview](#interview)
    *  [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)
 1. [ML](#machine-learning)
@@ -30,6 +27,7 @@
 * [Swift Standard Library API Reference](https://developer.apple.com/reference/swift)
 * [Start Developing iOS Apps](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
+* [斯坦福大学SwiftiOS_2017](https://github.com/kingcos/CS193P_2017)
 
 ---
 
@@ -140,9 +138,6 @@ Attributed text for `SKLabelNode` and `SKTransformNode`.
      -  [cmark](https://github.com/commonmark/cmark)
 *    [自动化测试添加标签id解决方案](https://github.com/yulingtianxia/TBUIAutoTest)
 
----
-
-# Algorithm
 ---
 
 # Interview

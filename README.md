@@ -1,2 +1,1 @@
-AdvancedSwift source code
-[book](https://www.objc.io/books/advanced-swift/)
+[advanced-swift](https://www.objc.io/books/advanced-swift/) source code
